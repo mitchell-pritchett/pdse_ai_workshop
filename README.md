@@ -10,5 +10,5 @@ Korean Version: https://github.com/WegraLee/deep-learning-from-scratch.git
 Original: https://github.com/oreilly-japan/deep-learning-from-scratch.git
 
 ---
-***NOTICE: Before using a Colab notebook, please make a copy of them to your google drive before you modify!***
+***NOTICE: Before using a Colab notebook, please make a copy to your google drive before you modify!***
 
