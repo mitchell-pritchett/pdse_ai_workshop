@@ -1,6 +1,6 @@
 # PDSE AI Winter Workshop
 
-PDSE lab 2021 Winter AI Workshop tutorial/assignment files are uploaded to this repository.
+PDSE lab 2021 Winter AI Workshop tutorial/assignment files are uploaded to this repository.  
 This workshop is for people who are new to the field of AI.
 
 ## Reference
