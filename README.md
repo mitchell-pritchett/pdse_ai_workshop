@@ -5,7 +5,7 @@ This workshop is for people who are new to the field of AI.
 
 ## Reference
 
-Codes are based on the codes of the book, *Deep Learning from Scratch* *Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow* and CS231n of Stanford University  
+Codes are based on the codes of the book, *Deep Learning from Scratch*, *Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow* and CS231n of Stanford University  
 Thank you for open sourcing the code.  
 Korean Version: https://github.com/WegraLee/deep-learning-from-scratch.git  
 Original: https://github.com/oreilly-japan/deep-learning-from-scratch.git  
